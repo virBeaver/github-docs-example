@@ -95,7 +95,53 @@ Traceback (most recent call list):
   1: from (irb):1
 RunetimeError: This is a custom error message
 ```
-> Here is ab example of using a codeblock for an error that appears in bash.
+> Here is an example of using a codeblock for an error that appears in bash.
+
+## Step 2 - How to take screenshots
+
+A screenshot is when you capture a part of your screen from your laptop, desktop or phone.
+
+> This is **not** to be confused with take a photo with your phone.
+
+To take screenshots both on macOS and Windows, you can use the following hotkeys:
+
+**On macOS (formerly Mac OS X):**
+
+1. **Entire Screen:**
+   - Command (⌘) + Shift + 3
+
+2. **Selected Portion:**
+   - Command (⌘) + Shift + 4, then drag to select the area you want to capture.
+
+3. **Window:**
+   - Command (⌘) + Shift + 4, then press Spacebar. Click the window you want to capture.
+
+4. **Entire Screen and save to clipboard (instead of saving to a file):**
+   - Command (⌘) + Control + Shift + 3
+
+5. **Selected Portion and save to clipboard:**
+   - Command (⌘) + Control + Shift + 4, then drag to select the area.
+
+By default, screenshots on macOS are saved to the desktop with a name like "Screen Shot YYYY-MM-DD at HH.MM.SS AM/PM."
+
+**On Windows:**
+
+1. **Entire Screen:**
+   - Print Screen (often labeled as PrtScn)
+
+2. **Active Window:**
+   - Alt + Print Screen
+
+3. **Selected Portion (Windows 10 and later):**
+   - Windows + Shift + S (This will open up a snipping tool interface allowing you to select a portion of the screen. The screenshot will be saved to your clipboard.)
+
+4. **Using Snipping Tool:**
+   - This isn't a hotkey per se, but Windows has a built-in app called Snipping Tool which allows for various screenshot options. You can search for it in the Start menu.
+
+5. **Save the Entire Screen directly as a file (Windows 8 and later):**
+   - Windows + Print Screen (The screenshot will be saved in the "Screenshots" folder inside the "Pictures" library.)
+
+Remember, after taking a screenshot, you can paste it directly into most applications (like Paint or Word) using the paste function (Command/Control + V).
 
 
 ## Step 3 - Use gitHub Flavoured  Markdown Task Lists
