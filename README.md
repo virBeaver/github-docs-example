@@ -175,7 +175,7 @@ You can use the following markdown foirmat to create tables:
 
 GFM extends the functionality of markdown tables to provide more alignment an tabel cell formatinng options. [<sup>[2]</sup>](#external-references)
 
-[Secret Window Hidden Garden]()
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
 
 ## External References
 
